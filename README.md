@@ -1,4 +1,5 @@
 # Learning
+# Beginner Python Projects
 This repository is a collection of beginner Python projects I'm building to practice and improve my skills.
 Each project focuses on a different concepts
 
@@ -14,7 +15,7 @@ A simple terminal game built using:
 
 ## 🙋‍♂️ About Me
 
-I'm learning by building — one small project at a time.
+I'm Saim Mustafa, a Computer Science student passionate about becoming a top-level software engineer. I’m currently learning Python and sharing my progress through small, focused projects.
 
 📫 [LinkedIn](https://www.linkedin.com/in/Saimmm)  
 📁 [My GitHub](https://github.com/saimmustafa7)

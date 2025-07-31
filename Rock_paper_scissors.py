@@ -27,5 +27,5 @@ while True:
 
     again = input("Do you want to play again? (yes/no): ").lower()
     if again != "yes":
-        break
+        break 
   

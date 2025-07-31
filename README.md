@@ -1,5 +1,5 @@
 # Learning
-This repository is a collection of beginner-friendly Python projects I'm building to practice and improve my skills.
+This repository is a collection of beginner Python projects I'm building to practice and improve my skills.
 Each project focuses on a different concepts
 
 ### 🎮 Rock Paper Scissors (CLI Game)
